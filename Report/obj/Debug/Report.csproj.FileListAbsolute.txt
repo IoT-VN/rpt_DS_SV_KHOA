@@ -1,0 +1,9 @@
+D:\CSharp\CSDL_Report\Report\Report\bin\Debug\Report.exe.config
+D:\CSharp\CSDL_Report\Report\Report\bin\Debug\Report.exe
+D:\CSharp\CSDL_Report\Report\Report\bin\Debug\Report.pdb
+D:\CSharp\CSDL_Report\Report\Report\obj\Debug\Report.csprojResolveAssemblyReference.cache
+D:\CSharp\CSDL_Report\Report\Report\obj\Debug\Report.frmCrystalReport.resources
+D:\CSharp\CSDL_Report\Report\Report\obj\Debug\Report.Properties.Resources.resources
+D:\CSharp\CSDL_Report\Report\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+D:\CSharp\CSDL_Report\Report\Report\obj\Debug\Report.exe
+D:\CSharp\CSDL_Report\Report\Report\obj\Debug\Report.pdb
